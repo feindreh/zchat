@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/zchat/static/js/main.fac50c55.js",
+    "index.html": "/zchat/index.html",
+    "main.fac50c55.js.map": "/zchat/static/js/main.fac50c55.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.fac50c55.js"
+  ]
+}
